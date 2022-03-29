@@ -1,7 +1,0 @@
-Test hipster text blah blah blah.  OK!
-
-Now a few more lines for testing.  Editing an existing file.
-
-Now an additional paragraph.
-
-More dummy text.
